@@ -159,5 +159,5 @@ Pull requests, ideas, and issues are welcome. Help expand it with better models,
 
 ## 👤 Author
 
-Your Name Here
-✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+Your Shaili Sahu Here
+✉️ Email: [shailisahu283@gmail.com](shailisahu283@gmail.com)
